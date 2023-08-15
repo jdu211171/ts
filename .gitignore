@@ -1,0 +1,9 @@
+// compiled typescript files
+*.js
+
+// node_modules file
+node_modules/
+
+// dependencies
+package-lock.json
+package.json
